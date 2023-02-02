@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "662033584773",
+    "firebase_url": "https://anonim-chat-uygulamasi.firebaseio.com",
+    "project_id": "anonim-chat-uygulamasi",
+    "storage_bucket": "anonim-chat-uygulamasi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662033584773:android:13b7e8746873039a3c4fec",
+        "android_client_info": {
+          "package_name": "com.nexis.anonimchatuygulamasiyapimi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "662033584773-bs302cgqdgir2am9un98a4gnjthh94g2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6LLq9sSx_aOQzw35ditar2hZsB0UBnfM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "662033584773-bs302cgqdgir2am9un98a4gnjthh94g2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
